@@ -1,0 +1,14 @@
+0cba23f3866b777f264d1d4b34f2d56c *DESCRIPTION
+fc63f2a88352f58f1f8e0524ca2dc14a *LICENSE
+3c29aa1d148e7c18a91b2f4433df1278 *NAMESPACE
+f7279a6177c092e5e120270e1ad88bbc *R/uniqtag.R
+5fc0318be7bcb7db242ce3e876ce3eb5 *README.md
+1e2484c1e6cb1fcff799ce66b7c3ac77 *man/cumcount.Rd
+8c177f03085b0e93392b036eb5873365 *man/kmers_of.Rd
+a5a8ad86c37ea4d5ce05575f607fe063 *man/make_unique.Rd
+079eaa1788d8b593e5b69f91a00dff13 *man/uniqtag-package.Rd
+cc52b0113df5095470bb45ae08ba161e *man/uniqtag.Rd
+4d957ae64a6c64be45db5dd5a38f1592 *tests/testthat.R
+82c152aad01f744b1a862941afff5283 *tests/testthat/test-kmers-of.R
+a2bc0c4bbf15da4b795c06e8bbee30b8 *tests/testthat/test-make-unique.R
+1867f837288914dd145a6c9377933b86 *tests/testthat/test-uniqtag.R
